@@ -4,10 +4,10 @@ Levantar el proyecto y explicar el funcionamiento de los microfrontEnd.
 
 INTEGRANTES
 
-Yesenia Chiroque
-Richard Pumapillo
-Alexis Peralta
-Manuel Fiestas
-Diego Tarazona
-Waldo Trebejo
+Yesenia Chiroque, 
+Richard Pumapillo, 
+Alexis Peralta, 
+Manuel Fiestas, 
+Diego Tarazona, 
+Waldo Trebejo, 
 Erick Huarcaya
